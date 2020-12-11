@@ -12,8 +12,8 @@ console.log(doubleQuote);
 //javascript numbers
 var number1 = 14.21;
 var number2 = 32;
-var scientific = 2e+5 //200000
-var scientific2 = 2e-5 // 0.00002
+var scientific = 2e+5; //200000
+var scientific2 = 2e-5; // 0.00002
 
 //javascript booleans
 var x = 5;
