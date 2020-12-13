@@ -7,3 +7,7 @@
 ```\r```	Carriage Return\
 ```\t```	Horizontal Tabulator\
 ```\v```	Vertical Tabulator
+example
+```javascript
+console.log("myName is\t arfy slowy");
+```
