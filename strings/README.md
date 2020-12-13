@@ -27,9 +27,9 @@ console.log("myName is\t arfy slowy");
 ``charCodeAt()`` return unicode of the char in string
 
 ## convert string to arr
-``javascript
+```javascript
 var text = "arfy,jole,sayuti,adit,cature";
 text.split(,);
 text.split(" ");
 text.split("|");
-``
+```
