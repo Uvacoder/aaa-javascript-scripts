@@ -7,8 +7,8 @@
 ```^```	XOR	Sets each bit to 1 if only one of two bits is 1\
 ```~```	NOT	Inverts all the bits\
 ```<<```	Zero fill left shift	Shifts left by pushing zeros in from the right and let the leftmost bits fall off\
-```>>``	Signed right shift	Shifts right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off\
-```>>>``	Zero fill right shift
+```>>```	Signed right shift	Shifts right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off\
+```>>>```	Zero fill right shift
 
 ## bitwise AND
 **one bit**\
@@ -25,7 +25,7 @@
 ## bitwise OR
 **one bit**\
 ```0 | 0```	 = 0\
-```0 | 1```	 = 1\ 
+```0 | 1```	 = 1\
 ```1 | 0```	 = 1\
 ```1 | 1```	 = 1\
 **four bit**\
