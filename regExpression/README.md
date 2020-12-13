@@ -27,7 +27,7 @@ var result = personName.match(search);
 Brackets are used to find a range of characters\
 ```[abc]```	Find any of the characters between the brackets\
 ```[0-9]```	Find any of the digits between the brackets\
-```(x|y)```	Find any of the alternatives separated with ```|```\
+```(x|y)```	Find any of the alternatives separated with ```|```
 
 Metacharacters are characters with a special meaning\
 ```\d```	Find a digit\
