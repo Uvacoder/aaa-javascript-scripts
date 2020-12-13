@@ -11,3 +11,6 @@ example
 ```javascript
 console.log("myName is\t arfy slowy");
 ```
+
+## string method
+``length`` length of string
