@@ -18,7 +18,7 @@ console.log(result); //ouput will be "2030"
 ## NaN (not an number)
 ```javascript
 var number1 = 100 / "reach"; //return is NaN
-conso`le.log(number1);
+console.log(number1);
 ``
 other
 ```javascript
