@@ -12,3 +12,4 @@ var teamName = [
 ];
 console.log(teamName[0]); //output "james"
 ```
+more about array check on ``[example.js](https://github.com/slowy07/jsLesson/blob/main/array/example.js)``
