@@ -1,5 +1,6 @@
 # jsLesson
-![javascript](https://www.lform.com/_assets/packages/wp/assets/uploaded/2017/08/lform_javascript_blog_header_image-1600x1080.jpg)
+[![license](https://img.shields.io/github/license/slowy07/javascript?style=for-the-badge)](./LICENSE)
+
 JavaScript (/ˈdʒɑːvəˌskrɪpt/),[6] often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.[7] JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
 Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web.[8] JavaScript enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behavior,[9] and all major web browsers have a dedicated JavaScript engine to execute it.
