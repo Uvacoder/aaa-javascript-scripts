@@ -1,6 +1,7 @@
 # jsLesson
 
 [![license](https://img.shields.io/github/license/slowy07/javascript?style=for-the-badge)](./LICENSE)
+[![codeQL](https://img.shields.io/github/workflow/status/slowy07/javascript/CodeQL?style=for-the-badge)](https://github.com/slowy07/javascript/actions/workflows/codeql-analysis.yml)
 
 JavaScript (/ˈdʒɑːvəˌskrɪpt/),[6] often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.[7] JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
