@@ -22,7 +22,7 @@ class OpenKnightTour{
     isComplete(){
         return this.board.map(row => row.includes(0)).includes(true)
     }
-
+ bn 
     solve(){
         for(let i = 0; i < this.size; i++){
             for(let j = 0; j < this.size; j++){
