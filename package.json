@@ -1,0 +1,22 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "everything i learn about javascript",
+  "main": "break.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slowy07/javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "arfy slowy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slowy07/javascript/issues"
+  },
+  "homepage": "https://github.com/slowy07/javascript#readme"
+}
