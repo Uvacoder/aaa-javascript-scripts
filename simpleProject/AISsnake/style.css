@@ -1,0 +1,16 @@
+body {
+    background-color: #444;
+}
+
+canvas {
+    border: 3px solid #fff;
+    background: #FEFEFEFE;
+}
+
+#main {
+    display: flex;
+}
+
+#control-container {
+    padding: 15px;
+}
